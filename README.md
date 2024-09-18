@@ -1,6 +1,6 @@
 # PromoAI-VideoBanner
-<h1>AI-Powered Dynamic Banner and Video Generation for Promotions</h1>
-    <h2>Problem Statement</h2>
+<h3>AI-Powered Dynamic Banner and Video Generation for Promotions</h3>
+    <h4>Problem Statement</h4>
     <p>Develop an AI solution to revolutionize promotional content creation. The AI system should generate high-quality banners and/or videos tailored to the following inputs:</p>
     <ul>
         <li><strong>Product Images:</strong> Multiple images showcasing the same or different products.</li>
